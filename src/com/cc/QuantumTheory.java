@@ -116,7 +116,7 @@ public class QuantumTheory {
         /*
         *Concept-
         * energy=H*(C/wavelength)
-        *energy*wavelength=H*C
+        * energy*wavelength=H*C
         * wavelength= (H*C)/energy
         * */
         double wavelength =(H*C)/energy;
